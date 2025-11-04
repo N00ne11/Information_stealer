@@ -13,7 +13,7 @@
 information.
 ○​ Retrieves public IP using an external API.
 
-# Install python esstentail modules to run it properly:
+# Install python essential modules to run it properly:
 
-pip install -r requirements.txt
+/// pip install -r requirements.txt
 
