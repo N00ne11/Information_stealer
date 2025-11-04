@@ -12,3 +12,6 @@
 ○​ Gathers OS details, IP address, MAC address, hostname, and processor
 information.
 ○​ Retrieves public IP using an external API.
+
+# Install python esstentail modules to run it properly:
+
