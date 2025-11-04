@@ -15,3 +15,5 @@ information.
 
 # Install python esstentail modules to run it properly:
 
+>> pip install -r requirements.txt
+
